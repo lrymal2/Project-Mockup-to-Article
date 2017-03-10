@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I've learned how to use <sup> tags.
+
+Everything has been easy to this point, but I'm sure it will get more challenging.
+
+I've yet to encounter anything difficult, but only because I've been working as a web developer for the past year.
+
+I haven't had to use problem solving strategies yet, but I do believe in the growth mindset, and that I'll need to put them to use once I start getting into new topics.
